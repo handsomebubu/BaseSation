@@ -1,4 +1,4 @@
-# AutoSignMachine
+# AutoSign Machine
 
 > Due to a third-party risk dispute, this script stopped sharing
 ### 使用插件 Pull App 同步
